@@ -1,0 +1,14 @@
+<section class="cContv1 py-5">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+                <p class="m-0 p-3 cSubtit mb-3">Berita, Agenda, Event</p>
+            </div>
+            <div class="col-md-10 px-4">
+                <h2>Pelatikan Pengurus Organisasi Mahasiswa tahun 2020 di Universitas Ngudi waluyo.</h2>
+                <p class="text-justify cPost">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates modi, facilis sit facere quasi quo quia nesciunt! Dignissimos non ex ut qui? Dicta, corrupti ab totam odit commodi consectetur, inventore necessitatibus est nesciunt aliquam delectus accusantium animi cumque labore perspiciatis quas tempore nobis laboriosam, voluptatum accusamus autem perferendis! Qui, dicta, quia est ab libero officiis, eveniet minima earum aut excepturi illum numquam sequi! Eos, recusandae quia quod, possimus necessitatibus obcaecati distinctio similique repellat laborum, ipsum voluptatem pariatur deleniti! A quos culpa, obcaecati quod beatae mollitia hic praesentium sint quo non libero dolorum dolorem, nesciunt distinctio voluptates, dignissimos facilis harum natus quia est odio! Quae quos at blanditiis asperiores in quasi ipsum nulla harum aut aspernatur reiciendis minus itaque culpa inventore ducimus, velit maiores! Veritatis tempore hic eveniet ad iusto magni cumque quam aliquid aperiam deserunt dolorum, minima, est officia quis vel dolorem. Iste officia quo magnam eum facere. Excepturi illum sunt dignissimos hic! Nulla quis assumenda tempora doloremque adipisci quae sed eos cumque veritatis esse unde, nesciunt alias blanditiis porro perspiciatis, illo molestiae magni perferendis modi, sequi delectus non dolorum et ullam? Quod repellendus voluptatum blanditiis. Doloribus recusandae molestiae natus! In quod omnis adipisci molestias nemo delectus, possimus nobis quibusdam blanditiis consectetur asperiores mollitia error nesciunt hic illo. Quas ipsa recusandae, ipsam, saepe maxime blanditiis qui, sit eos hic repellendus nisi nostrum sed voluptate possimus molestias modi praesentium esse voluptatum enim iure quo nihil neque. Aperiam assumenda, officia quisquam, nihil accusantium ipsa placeat, pariatur dolor quibusdam eum explicabo id nemo earum numquam rem minima voluptatem at labore! Similique tempora nisi a doloremque ratione maiores aliquid qui nobis eos, deleniti possimus. Odit repudiandae eligendi neque cumque, id exercitationem minima iure delectus fugit et praesentium, quam, qui mollitia maiores corrupti at eos rerum magnam numquam. Iusto alias eum blanditiis, hic quod aliquid.</p>
+                <p class="cWriter text-right">Yusuf Prananda<br><?= date("D, j F Y") ?></p>
+            </div>
+        </div>
+    </div>
+</section>

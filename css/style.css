@@ -1,0 +1,308 @@
+body {
+    font-family: 'Nunito Sans',
+        sans-serif;
+}
+
+ul li,
+p,
+a {
+    font-size: 12px;
+}
+
+section p {
+    font-size: 14px;
+}
+
+.cIndent {
+    text-indent: 40px;
+}
+
+.cTopnav {
+    background-color: #00adb5;
+}
+
+.cTopnav a {
+    color: #eeeeee;
+}
+
+.cTopnav .d-flex {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+nav.navbar {
+    background-color: #eeeeee;
+    padding-left: 100px;
+    padding-right: 100px;
+    transition: all 0.5s ease;
+}
+
+nav.navbar a h1,
+nav #cNavover .cNavhead h1 {
+    font-size: 25px;
+    font-weight: 800;
+    color: #00adb5;
+}
+
+nav.navbar a h2,
+nav #cNavover .cNavhead h2 {
+    font-size: 12px;
+    font-weight: 600;
+    color: #393e46;
+}
+
+nav.navbar a img,
+nav #cNavover .cNavhead img {
+    width: 50px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #00adb5;
+}
+
+.navbar-light .navbar-nav .active>.nav-link,
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #393e46;
+}
+
+nav.navbar button.btn {
+    color: #00adb5;
+}
+
+.cOverlay {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    background-color: #00adb5;
+    overflow-x: hidden;
+    transition: 0.2s;
+}
+
+.cOverlay .cNavhead {
+    background-color: #eeeeee;
+}
+
+.cOverlay button.btn {
+    color: #00adb5;
+}
+
+.cNavcont {
+    background-color: #00adb5;
+    padding-top: 15px;
+    font-size: 30px;
+}
+
+.cNavcont a,
+.cNavcont button,
+.cNavcont .collapse a {
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.cNavcont a.btn {
+    color: #eeeeee;
+}
+
+.cNavcont button.btn {
+    color: #eeeeee;
+}
+
+.cNavcont .collapse a.btn {
+    color: #00adb5;
+}
+
+.cSearch #cSearch .closeSearch {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 30px;
+    color: #eeeeee;
+}
+
+.cSearch #cSearch .cForm {
+    position: absolute;
+    width: 70%;
+    top: 250px;
+    right: 15%;
+}
+
+.cSearch #cSearch form input {
+    color: #eeeeee;
+    font-size: 60px;
+    font-weight: 800;
+    border: 0;
+    outline: 0;
+    background-color: transparent;
+    border-bottom: 3px solid #eeeeee;
+}
+
+.cSearch #cSearch p {
+    font-size: 15px;
+    font-weight: 800;
+    text-align: right;
+    color: #eeeeee;
+}
+
+.cJumbotron .lead {
+    font-size: 13px;
+    font-weight: 600;
+    color: #393e46;
+}
+
+.cJumbotron h1 {
+    font-weight: 800;
+    color: #00adb5;
+}
+
+.cSubtit {
+    background-color: #00adb5;
+    font-size: 14px;
+    font-weight: 700;
+    color: #eeeeee;
+}
+
+.cContv1 h2 {
+    font-weight: 700;
+    color: #393e46;
+}
+
+.cContv1 .cTitleup {
+    font-size: 22px;
+    font-weight: 700;
+    color: #393e46;
+    text-decoration: none;
+}
+
+.cContv1 .cTags {
+    font-size: 17px;
+    font-weight: 700;
+    color: #00adb5;
+    text-decoration: none;
+}
+
+.cContv1 h5 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #393e46;
+}
+
+.cContv1 h2 mark {
+    background-color: transparent;
+    font-family: 'Alegreya', serif;
+    font-style: italic;
+    color: #00adb5;
+}
+
+.cContv2 {
+    background-color: #00adb5;
+}
+
+.cContv2 h5 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #eeeeee;
+}
+
+.cContv2 h1 {
+    font-weight: 800;
+    color: #eeeeee;
+}
+
+.cContv2 p, .cContv2 ul li {
+    color: #eeeeee;
+    font-size: 14px;
+}
+
+.cContv3 {
+    background-color: #393e46;
+}
+
+.cContv3 h5 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #eeeeee;
+}
+
+.cContv3 h1 {
+    font-weight: 800;
+    color: #eeeeee;
+}
+
+.cContv3 p {
+    color: #eeeeee;
+}
+
+.cContv3 a {
+    text-decoration: none;
+    color: #eeeeee;
+    font-size: 14px;
+}
+
+.cContv3 hr {
+    border-color: #eeeeee;
+}
+
+.cLogobot {
+    width: 150px;
+}
+
+.cFooter {
+    background-color: #00adb5;
+}
+
+.cFooter p {
+    color: #eeeeee;
+}
+
+.cPost {
+    font-size: 16px;
+}
+
+.cWriter {
+    font-weight: 700;
+    font-size: 12px;
+}
+
+@media (max-width: 1200px) {
+    .cNavnormal {
+        display: none;
+    }
+
+    .search {
+        margin-left: auto;
+    }
+}
+
+@media (min-width: 1200px) {
+    .hamburger {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .cTopnav .d-flex {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    nav.navbar {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .cSearch #cSearch .cForm {
+        top: 200px;
+    }
+
+    .cSearch #cSearch p {
+        font-size: 12px;
+        font-weight: 600;
+    }
+}
